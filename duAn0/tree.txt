@@ -1,0 +1,11 @@
+docs/
+├── 00_context/                  # AI's Long-term Memory
+│   ├── requirements.md          # Business goals, success criteria
+│   ├── implementation-guide.md  # Technical architecture, patterns
+│   └── reference.md             # Additional references
+├── 01_plan/                     # Project Management  
+│   └── project-roadmap.md       # Timeline, current status, sprints
+└── 02_implement/                # Sprint Execution
+    ├── sprint-1.md              # Detailed task breakdown
+    ├── sprint-2.md              # Daily progress tracking
+    └── sprint-3.md              # Acceptance criteria
